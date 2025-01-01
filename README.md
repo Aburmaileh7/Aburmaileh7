@@ -58,4 +58,4 @@
   <img width="25" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="60" alt="gitlab logo"  />
 </div>
-<img src="https://raw.githubusercontent.com/Aburmaileh7/Aburmaileh7/output/snake.svg" alt="Snake animation" />
+ <p align="center"> <img src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"> </a> </p>
